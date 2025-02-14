@@ -1,0 +1,12 @@
+
+
+
+	|------------------------------------------------------------------------------------------------|
+	|																 |				|	The entire copyright of this project belongs to our team of 4 members. 				 |
+	|			* Jayadev Tripathi [780314]									 |
+	|			* Murari Pandey	 [780322]									 |
+	|			* Sahana Shrestha  [780336]									 |
+	|			* Upendra Shahi	 [780347]									 |
+	|									 							 |
+	|	The project is entirely upon the manupulating contents which are preloaded in the files.   |
+	|																 |		|------------------------------------------------------------------------------------------------|

@@ -1,0 +1,6 @@
+Literature is a form of art that uses language as its medium. It encompasses a wide range of creative writing, including poetry, fiction, drama, and non-fiction. Through literature, writers can convey their thoughts, emotions, and experiences to readers, who can then interpret and engage with these works in a variety of ways. Literature is often studied in academic settings as a means of understanding human culture and society, as well as the individual experiences of writers and readers.
+
+Our project LEAF "Literature Efficient Architecture Folio" is concerned with manipulating over the pre loaded contents of literature and even allowing the users to create and manipulate over their daily notes. 
+
+				##############################################################################################
+											
